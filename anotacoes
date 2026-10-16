@@ -1,0 +1,60 @@
+<div class="cabeça"> <!---Titulo-->
+        <h1>QUEM SOU EU?</h1>
+    </div>
+
+        <div class="bloco">
+            <div class="bloco-imagem"> <!--Imagem sobre mim-->
+                <img src="/imagens/Digitalizado_20260601-1539.jpg" alt="" class="imagem">
+            </div>
+            <div class="bloco-informações"><!--Texto falando sobre mim-->
+                <p></p>
+                <p></p>
+                <p></p>
+            </div>
+        </div>
+        <div class="informações"><!--Mostrar sites que eu uso no dia a dia-->
+            <h1>esses aqui sao os sites que eu mais uso:</h1>
+        </div>
+        <div class="lista"> <!--Lista dos sites-->
+            <ul>
+                <li><a href="https://welib-public.org/pt.html" target="_blank">
+                    <img src="/imagens/welib.png" alt=""></a></li>
+                <li>
+                    <a href="https://www.youtube.com/" target="_blank">
+                        <img src="/imagens/Youtube_logo.png" alt=""></a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/" target="_blank">
+                        <img src="/imagens/instagram logo.png" alt=""></a>
+                </li>
+            </ul>
+        </div>
+            <!-- parte cima para imagens -->
+
+
+        <div class="card-group">
+            <div class="card">
+              <img src="..." class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+              </div>
+            </div>
+            <div class="card">
+              <img src="..." class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+              </div>
+            </div>
+            <div class="card">
+              <img src="..." class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+              </div>
+            </div>
+          </div>
